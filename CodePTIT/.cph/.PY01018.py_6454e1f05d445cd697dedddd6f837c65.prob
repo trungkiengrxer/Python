@@ -1,0 +1,1 @@
+{"name":"Local: PY01018","url":"d:\\Clone Repository\\Python\\CodePTIT\\PY01018.py","tests":[{"id":1754907220724,"input":"1 ABCD\n14 ROAD\n0","output":"EDCB\nROAD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Clone Repository\\Python\\CodePTIT\\PY01018.py","group":"local","local":true}

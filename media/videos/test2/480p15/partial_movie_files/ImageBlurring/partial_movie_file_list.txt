@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Clone Repository/Python/media/videos/test2/480p15/partial_movie_files/ImageBlurring/1185818338_2949349824_223132457.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/test2/480p15/partial_movie_files/ImageBlurring/624642324_2762014500_3362834651.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/test2/480p15/partial_movie_files/ImageBlurring/624642324_1141282389_2478107332.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/test2/480p15/partial_movie_files/ImageBlurring/624642324_2421850317_434896346.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/test2/480p15/partial_movie_files/ImageBlurring/624642324_1141282389_3754678674.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/test2/480p15/partial_movie_files/ImageBlurring/624642324_285515309_1890732460.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/test2/480p15/partial_movie_files/ImageBlurring/624642324_1141282389_3132841417.mp4'

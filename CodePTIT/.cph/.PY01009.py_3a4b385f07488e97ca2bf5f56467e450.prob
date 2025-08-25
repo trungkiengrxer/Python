@@ -1,0 +1,1 @@
+{"name":"Local: PY01009","url":"d:\\Clone Repository\\Python\\CodePTIT\\PY01009.py","tests":[{"id":1754886158969,"input":"vietHoa","output":"viethoa"},{"id":1754886169201,"input":"VIETTHuoNg","output":"VIETTHUONG"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Clone Repository\\Python\\CodePTIT\\PY01009.py","group":"local","local":true}

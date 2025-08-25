@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Clone Repository/Python/media/videos/parabol/480p15/partial_movie_files/ExtendedParabolaGraph/1185818338_3528463310_223132457.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/parabol/480p15/partial_movie_files/ExtendedParabolaGraph/624642324_2902272538_1052393238.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/parabol/480p15/partial_movie_files/ExtendedParabolaGraph/624642324_3284824499_55076643.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/parabol/480p15/partial_movie_files/ExtendedParabolaGraph/624642324_3975170608_3088164516.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/parabol/480p15/partial_movie_files/ExtendedParabolaGraph/624642324_721104740_3145517609.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/parabol/480p15/partial_movie_files/ExtendedParabolaGraph/624642324_1190504341_860899789.mp4'

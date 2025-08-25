@@ -1,0 +1,47 @@
+{
+	"Testcases loop (basic)": {
+	  "scope": "python",
+	  "prefix": "tloop",
+	  "body": [
+		"t = int(input())",
+		" ",
+		"for _ in range(t):",
+		"\t$0"
+	  ],
+	  "description": "Mẫu đọc t test case (đơn giản)"
+	},
+  
+	"Testcases with ints per line": {
+	  "scope": "python",
+	  "prefix": "tint",
+	  "body": [
+		"t = int(input())",
+		"for _ in range(t):",
+		"\tarr = list(map(int, input().split()))",
+		"\t${1:# xử lý arr}",
+		"\t$0"
+	  ],
+	  "description": "Đọc mỗi test là một dòng các số nguyên"
+	},
+  
+	"Fast multiple tests (competitive)": {
+	  "scope": "python",
+	  "prefix": "tfast",
+	  "body": [
+		"import sys",
+		"data = sys.stdin.buffer.read().split()",
+		"it = iter(data)",
+		"t = int(next(it))",
+		"out_lines = []",
+		"for _ in range(t):",
+		"\t# ví dụ: đọc 1 số X từ input tokens",
+		"\t# X = int(next(it))",
+		"\t${1:# xử lý và thêm kết quả vào out_lines}",
+		"",
+		"sys.stdout.write('\\n'.join(map(str, out_lines)))",
+		"$0"
+	  ],
+	  "description": "Template nhanh cho competitive programming (đọc tất cả input)"
+	}
+  }
+  

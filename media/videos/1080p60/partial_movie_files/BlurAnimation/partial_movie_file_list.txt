@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/3977891868_3721220426_223132457.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/2852726489_47585368_3362834651.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/2852726489_47585368_1416102687.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/2852726489_47585368_2725810613.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/2852726489_47585368_3856856915.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/2852726489_47585368_4170550259.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/2852726489_47585368_4149135127.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/2852726489_47585368_3549678646.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/2852726489_47585368_1557779736.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/2852726489_47585368_1543161587.mp4'
+file 'file:D:/Clone Repository/Python/media/videos/1080p60/partial_movie_files/BlurAnimation/2852726489_1141282389_3797619624.mp4'

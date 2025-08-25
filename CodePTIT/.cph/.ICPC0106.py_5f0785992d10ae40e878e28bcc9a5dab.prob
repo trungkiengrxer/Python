@@ -1,0 +1,1 @@
+{"name":"Local: ICPC0106","url":"d:\\Clone Repository\\Python\\CodePTIT\\ICPC0106.py","tests":[{"id":1755449266379,"input":"2\n8\n10010100010010101\n2\n10010100010010101","output":"224225\n10010100010010101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Clone Repository\\Python\\CodePTIT\\ICPC0106.py","group":"local","local":true}

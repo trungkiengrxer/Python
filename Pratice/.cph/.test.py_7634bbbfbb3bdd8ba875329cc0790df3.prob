@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\Clone Repository\\Python\\Pratice\\test.py","tests":[{"id":1728465920168,"input":"200","output":"2 3 5 7 11 13 17 19 23 29 37 47 59 67 79 89 101 103 107 109 113 127 137 139 149 157 167 179 199\n29"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Clone Repository\\Python\\Pratice\\test.py","group":"local","local":true}
